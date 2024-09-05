@@ -1,1 +1,5 @@
-# Online-Banking-Platform
+This project will create an online banking platform where users can transfer money, check account balances, and do other banking operations. It is a simplified replica of an online banking system where we won’t connect the application with real bank accounts for security purposes
+Our Online Banking Platform is designed to provide you with a seamless and efficient banking experience from anywhere, anytime. Whether you're at home, at work, or on the go, our platform ensures you have full control over your financial activities with just a few clicks.
+Account Management: Easily view your account balances, transaction history, and statements. Monitor and manage multiple accounts effortlessly in one place.
+Bill Pay: Simplify your life by setting up one-time or recurring payments for utilities, credit cards, and other services. Enjoy the convenience of managing your bills without the hassle of writing checks.
+Transfer Funds: Quickly and securely transfer funds between your accounts or to other bank accounts. Our platform supports both domestic and international transfers.
